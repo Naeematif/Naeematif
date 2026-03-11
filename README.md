@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @Naeematif
-- 👀 I’m interested in C++ development, web development (HTML, CSS), data structures, object-oriented programming (OOP), and SQL.
-- 🌱 I’m currently learning advanced C++ techniques, modern web development frameworks, and optimizing SQL queries.
-- 💞️ I’m looking to collaborate on open-source C++ projects, web development projects, and any interesting challenges involving data structures and algorithms.
-- 📫 How to reach me: You can reach me via naeeematif@gmail.com.
+👋 Hi, I’m @Naeematif
 
-- ⚡ Fun fact: I love solving complex problems and am a big fan of logic puzzles!
+👀 I’m interested in Full-Stack Development, specifically building cross-platform mobile apps with Flutter and scalable backends using Java Spring Boot.
+
+🌱 I’m currently deep-diving into Microservices architecture, Advanced Flutter UI/UX, and Cloud Integration with Firebase and SQL.
+
+💞️ I’m looking to collaborate on Open-source Flutter packages, Spring Boot REST APIs, and innovative mobile solutions.
+
+📫 How to reach me: Reach out via naeematif0307@gmail.com.
+
+⚡ Fun fact: I enjoy architecting complex systems—mapping out a database schema is my version of a logic puzzle!
