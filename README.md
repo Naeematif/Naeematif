@@ -2,7 +2,7 @@
 
 **Computer Science Graduate | Mobile & Full-Stack Developer**
 
-Final-year Computer Science student at the University of Engineering and Technology (UET), Lahore – Narowal Campus, with hands-on experience building cross-platform mobile applications and full-stack web systems. Strong foundation in software engineering principles, with practical exposure to AI-assisted product development, data science, and quality assurance.
+Final-year Computer Science student at the University of Engineering and Technology (UET), Lahore, with hands-on experience building cross-platform mobile applications and full-stack web systems. Strong foundation in software engineering principles, with practical exposure to AI-assisted product development, data science, and quality assurance.
 
 📍 Lahore, Pakistan &nbsp;|&nbsp; 📧 naeeematif@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-naeeem-atif/)
 
