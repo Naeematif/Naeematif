@@ -6,6 +6,6 @@
 
 💞️ I’m looking to collaborate on Open-source Flutter packages, Spring Boot REST APIs, and innovative mobile solutions.
 
-📫 How to reach me: Reach out via naeematif0307@gmail.com.
+📫 How to reach me: Reach out via naeeematif@gmail.com.
 
 ⚡ Fun fact: I enjoy architecting complex systems—mapping out a database schema is my version of a logic puzzle!
