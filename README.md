@@ -18,7 +18,7 @@ I focus on building reliable, scalable software with an emphasis on mobile devel
 
 ## Featured Project
 
-### GoFix — A Smart App for Home Services
+### GoFix — A Smart App for Home Services (Deployed On Play Store)
 *Final Year Project · Bachelor of Science in Computer Science*
 
 GoFix is an AI-powered, Flutter and Firebase-based marketplace platform that connects customers with verified home service technicians (electricians, plumbers, AC repair specialists, and others) through a structured, transparent digital workflow.
